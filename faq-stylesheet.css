@@ -1,0 +1,110 @@
+.banner{
+  height:400px;
+  background-color:#1F2937;
+  color: white;
+}
+.banner h1{
+ text-align: center;
+ padding: 30px;
+ margin-bottom: 0px;
+ font-size: 48px;
+ font-family: 'Lilita One', cursive;
+}
+.form{
+  padding-top: 0px;
+}
+.form label{
+  text-align: center;
+  font-size: 36px;
+  padding: 10px;
+  display: block;
+  font-family: 'Lilita One', cursive;
+}
+.search{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.search .text-area{
+  width: 300px;
+  height: 25px;
+}
+.search .blue-button{
+  margin-top:0px;
+  margin-left: 5px;
+  height: 41px;
+}
+.chat{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.chat p{
+  font-size: 36px;
+  font-family: 'Lilita One', cursive;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.container h1{
+  text-align: center;
+  font-size: 36px;
+  padding: 20px;
+  font-family: 'Lilita One', cursive;
+}
+.question-cards{
+  display: flex;
+  justify-content: space-around;
+}
+.card{
+  height: 300px;
+  width:450px;
+  margin-bottom: 30px;
+  padding: 15px;
+  margin-left: 20px;
+  border: none;
+}
+.card h2 {
+  text-align: center;
+  font-size: 28px;
+  font-family: 'Noto Serif', serif;
+}
+.card p {
+  text-align: justify;
+  font-size: 16px;
+  font-family: 'Noto Serif', serif;
+}
+.read-more-btn {
+  border: none;
+  background: #3882F6;
+  color: white;
+  border-radius: 5px;
+  width:100%;
+  padding: 5px;
+}
+.blue-button{
+  background-color: #3882F6;
+  color:white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+}
+.fa-rocketchat{
+  font-size: 30px;
+}
+.bottom button{
+  margin-bottom: 50px;
+  margin-top: 70px;
+}
+.bottom .chat-btn{
+ padding-top: 10px;
+ float: right;
+ margin-right: 25px;
+}
+.bottom .top-of-page-btn{
+  float: left;
+  margin-left: 30px;
+ }
+.fa-arrow-up{
+  font-size: 30px;
+}
